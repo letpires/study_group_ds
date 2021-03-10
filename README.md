@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/dsa_python/blob/main/python%20pandas%20(2).png" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="200">
+  <img src="https://github.com/letpires/study_group_ds/blob/main/python%20pandas%20(2).png" width="200">
 </p>
 
 <h2 align="center">
